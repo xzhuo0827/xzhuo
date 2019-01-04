@@ -23,7 +23,7 @@ public class GenMain {
 		// 模板名称
 		String templateFile = "test.java";
 		// 模板生成后存放目录
-		String targetPath = "D:/test";
+		String targetPath = "D:/test1";
 		// 模板生成后新文件名
 		String fileName = "ntest.java";
 		// 创建文件夹
